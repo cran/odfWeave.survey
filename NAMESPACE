@@ -1,0 +1,4 @@
+import(odfWeave,survey)
+S3method(odfTable,svystat)
+S3method(odfTable, table)
+S3method(odfTable, svrepstat)
